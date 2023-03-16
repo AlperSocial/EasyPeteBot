@@ -23,7 +23,7 @@ __Normal Commands__
 *Rock, Paper, Scissors!*
 
 **captionmaker:**
-*the 🔥SHITTIEST🔥 caption maker on github*
+*makes captions like ifunny caption maker but its bad*
 
 __Meme Commands (you can remove these commands if you want to)__
 
@@ -85,3 +85,11 @@ Also you will need to enable "Message Content Intent" in the Discord Developer P
 
 
 
+
+## You
+
+This is where YOU come in. (Yes, YOU!)
+
+This project is discontinued and the reason that this is on github, is that I want YOU to add your own commands to this bot. Of course, I won't be adding your commands to the github repository but what I'm trying to say is that extend this bot to your liking.
+
+![I WANT YOU](https://i.imgur.com/yIDqgzg.png)
