@@ -23,7 +23,7 @@ __Normal Commands__
 *Rock, Paper, Scissors!*
 
 **captionmaker:**
-*makes captions like ifunny caption maker but its bad*
+*the 🔥SHITTIEST🔥 caption maker on github*
 
 __Meme Commands (you can remove these commands if you want to)__
 
